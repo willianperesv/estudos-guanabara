@@ -1,0 +1,21 @@
+:root {
+    --color1: #1B2C7A;
+    --color2: #8298FB;
+    --color3: #375BFA;
+    --color4: #8A8A8A;
+    --color5: #2C48C7;
+
+  }
+*{
+    margin:0;
+    padding:0;
+}
+#top-container{
+    text-align: center;
+    padding:2vh;
+    position:absolute;
+    width: 100%;
+    left:0;
+    top:0%;
+    background-color: var(--color4);
+}
